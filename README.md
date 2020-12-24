@@ -5,9 +5,7 @@ HK322 / HK326 Music Player
 
 - HK322, HK326 メーカー:
 
-+ Honsitak Electronics Co., Ltd.
-
-+ https://www.honsitak-taiwan.com/products03.htm
+Honsitak Electronics Co., Ltd. https://www.honsitak-taiwan.com/products03.htm
 
 - 小売：株式会社秋月電子通商
 
