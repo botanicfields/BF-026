@@ -1,4 +1,5 @@
 # BF-026
+
 HK322 / HK326 Music Player
 
 メロディIC HK322, HK326 の演奏を楽しめるプリント基板です。
@@ -6,6 +7,7 @@ HK322 / HK326 Music Player
 単三乾電池 2 本を使用します。
 
 #1 機能
+
 - 基板上に小型スピーカーがあり、単体で演奏できます。
 - 音量を調整できます。
 - LED がテンポに合わせて点滅します。
@@ -59,6 +61,7 @@ SPEAKER 表示のピンヘッダー (4p) に、ショートピン 2 本をプリ
 
 
 #5 提供元
+
 BotanicFields, Inc.
 
 [twitter] https://twitter.com/botanicfields
