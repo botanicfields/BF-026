@@ -1,21 +1,23 @@
 # BF-026
 HK322 / HK326 Music Player
 
-メロディIC HK322, HK326 が音楽を演奏します。
+メロディIC HK322, HK326 の演奏を楽しめるプリント基板です。
+データシートの応用回路を実装できます。
+単三乾電池 2 本を使用します。
 
 #1 機能
+- 基板上に小型スピーカーがあり、単体で演奏できます。
+- 音量を調整できます。
+- LED がテンポに合わせて点滅します。
+- モーターの接続端子があり、演奏中に回せます。
+- ボタン操作の動作モードを選べます。
+- ピンヘッダからスピーカー信号を外部に取り出せます。
 
-- メロディ IC のデータシートにある応用回路をプリント基板化しました。
-- 単三乾電池 2 本を使用します。
-- 基板上に小型スピーカーがあり単体で演奏できます。
-- ピンヘッダのジャンパを外すことにより音声信号を外部に取り出せます。
-- 音量調整ができます。
-- LED が演奏に合わせて点滅します。
-- 演奏中に回るモーターを接続する端子があります。
-- ボタンの動作モードヲ選べます。
+#2 組み立て
 
+#3 動作
 
-
+#4 参考資料
 
 - HK322, HK326 メーカー:
 
@@ -31,12 +33,11 @@ HK322 / HK326 Music Player
 
 [HK326-2] https://akizukidenshi.com/catalog/g/gI-15486/
 
-#1 構成
 
-#2 組み立て
-
-#3 動作
-
-#4 その他
-
-
+#5 提供元
+BotanicFields, Inc.
+[twitter] https://twitter.com/botanicfields
+[facebook] https://www.facebook.com/botanicfields
+[Qiita] https://qiita.com/BotanicFields
+[GitHub] https://github.com/botanicfields
+[SwitchScience] https://www.switch-science.com/catalog/list/1084/
