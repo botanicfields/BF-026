@@ -32,13 +32,13 @@ SPEAKER 表示のピンヘッダー (4p) に、ショートピン 2 本をプリ
 動作モードは、ピンヘッダー (6p) に対してショートピン 2 本で設定します。
 
 
-| MODE | SL | 動作モード　| 説明　|
+| MODE | SL | 動作モード | TG ボタンの動作 |
 |:--:|:--:|:---|:---|
-| VSS | VSS | Play All Songs　| TG ボタンを押すと、全曲を 1 曲目から 1 回演奏します。 |
-| VSS | VDD | One Shot Re-Trigger | TG ボタンを押すと、1 曲目から 1 曲を演奏します。曲の途中で TG ボタンを押すと次の曲に移ります。TG ボタンを押し続けた場合、曲が終わる毎に次の曲を演奏します。 |
-| VDD | VSS | One Shot Non Re-Tregger　| TG ボタンを押すと、1 曲目を最後まで演奏します。次に TG ボタンを押すと、次の曲を最後まで演奏します。 |
-| VDD | VDD | On/Off Switch　| TG ボタンを押すと、全曲を 1 曲目から 1 回演奏します。演奏中に TG ボタンを押すと演奏を停止します。 |
-| VSS | VSS | TG = VSS: Power On/Off　| TG を VSS に短絡すると、電源オンで全曲を 1 曲目から 1 回演奏させることができます。|
+| VSS | VSS | Play All Songs　| 1 曲目から全曲を 1 回演奏します |
+| VSS | VDD | One Shot Re-Trigger | 1 曲目から 1 曲を演奏します。曲の途中で TG ボタンを押すと次の曲に移ります |
+| VDD | VSS | One Shot Non Re-Tregger　| 1 曲目を最後まで演奏します。演奏後 TG ボタンを押すと次の曲を最後まで演奏します |
+| VDD | VDD | On/Off Switch　|  1 曲目から全曲を 1 回演奏します。演奏中に TG ボタンを押すと演奏を停止します |
+| VSS | VSS | TG = VSS: Power On/Off　| TG を VSS と短絡しておくと、電源オンで 1 曲目から全曲を 1 回演奏させることができます |
 
 # 4.参考資料
 
