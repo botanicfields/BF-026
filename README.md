@@ -38,7 +38,7 @@ SPEAKER 表示のピンヘッダー (4p) に、ショートピン 2 本をプリ
 | VSS | VDD | One Shot Re-Trigger | 1 曲目を演奏します。曲の途中で TG ボタンを押すと次の曲に移ります |
 | VDD | VSS | One Shot Non Re-Tregger　| 1 曲目を最後まで演奏します。演奏後 TG ボタンを押すと次の曲を最後まで演奏します |
 | VDD | VDD | On/Off Switch　|  全曲を 1 回演奏します。演奏中に TG ボタンを押すと演奏を停止します |
-| VSS | VSS | TG = VSS: Power On/Off　| TG を VSS と短絡しておくと、電源オンで全曲を 1 回演奏させることができます |
+| VSS | VSS | TG = VSS: Power On/Off　| TG を VSS と短絡しておくと、電源オンで全曲を 1 回演奏します |
 
 # 4.参考資料
 
