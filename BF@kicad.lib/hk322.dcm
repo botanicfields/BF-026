@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HK322
+D HONSITAK ELECTRONICS CO.,LTD
+K Natural harmonic melody IC with 512 musical notes
+F https://www.honsitak-taiwan.com/p_data/hk322.pdf
+$ENDCMP
+#
+$CMP HK326
+D HONSITAK ELECTRONICS CO.,LTD
+K Natural harmonic melody IC with 1024 musical notes
+F https://www.honsitak-taiwan.com/p_data/hk326.pdf
+$ENDCMP
+#
+#End Doc Library
