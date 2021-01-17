@@ -8,18 +8,12 @@
 
 モーターを接続できます。モーターは付属しません。
 
-## **※音量が、かなり小さいです。**
-
 [組み立て例]
 
 <img src="./photo/bf-026photo_assemble_front.JPG" width=300>
 <img src="./photo/bf-026photo_assemble_back.JPG" width=300>
 
-[キット内容]
-
-<img src="./photo/bf-026photo_contents.JPG" width=300>
-
-# 1.機能
+## 1. 機能
 
 - 基板上に小型スピーカーがあり、単体で演奏できます。
 - 音量を調整できます。
@@ -30,7 +24,19 @@
 
 [動作例 BF-026: HK322-6 Music Player (Speaker on Board)] https://youtu.be/cPjyi8aC4bo
 
-# 2.組み立て
+## **※音量が、かなり小さいです。**
+
+添付の圧電スピーカーを以下の部品に交換すると、音量や音質を改善できます。しかし基板上の**VR による音量調節**は、ほとんどできなくなります。
+
+[基板取付用スピーカーユニット　ＵＧＳＭ３０Ｂ－８－０１]https://akizukidenshi.com/catalog/g/gP-09271/
+
+[動作例 BF-026: HK-322-6 Music Player (Speaker External)] Https://youtu.be/JqZQZIhNCvg
+
+プリント基板が両面スルーホールのため、一旦取り付けた部品を交換するのは難易度が高いです。特にスピーカーは構造が華奢で壊れやすいです。外付けで大きなスピーカーに接続する方が安全です。
+
+<div style="page-break-before:always"></div>
+
+## 2. 組み立て
 
 組み立てには、はんだ付けが必要です。はんだ、はんだごて、ニッパー等が必要です。ターミナルブロックへの導線の接続には、ドライバー等が必要です。
 
@@ -44,6 +50,10 @@ LED にも極性があり、リード線の短い方がマイナスです。プ�
 
 SPEAKER 表示のピンヘッダー (4p) に、ショートピン 2 本をプリント基板の長い方向に並べて挿します。外部スピーカー等を使用する場合は、ショートピンを取り外して IC に近い方のピン 2 本から信号を取り出します。
 
+[キット内容]
+
+<img src="./photo/bf-026photo_contents.JPG" width=300>
+
 [プリント基板]
 
 <img src="./photo/bf-026photo_PCB_front.JPG" width=300>
@@ -51,7 +61,7 @@ SPEAKER 表示のピンヘッダー (4p) に、ショートピン 2 本をプリ
 
 <div style="page-break-before:always"></div>
 
-# 3.動作
+## 3. 動作
 
 動作モードは、ピンヘッダー (6p) に対してショートピン 2 本で設定します。
 
@@ -64,21 +74,7 @@ SPEAKER 表示のピンヘッダー (4p) に、ショートピン 2 本をプリ
 | VDD | VDD | On/Off Switch　|  全曲を 1 回演奏します。演奏中に TG ボタンを押すと演奏を停止します |
 | VSS | VSS | TG = VSS: Power On/Off　| TG を VSS と短絡しておくと、電源オンで全曲を 1 回演奏します |
 
-# 4. スピーカーについて
-
-添付の圧電スピーカーを以下の部品に交換すると、音量や音質を改善できます。しかし基板上の VR による音量調節は、ほとんどできなくなります。
-
-[基板取付用スピーカーユニット　ＵＧＳＭ３０Ｂ－８－０１]https://akizukidenshi.com/catalog/g/gP-09271/
-
-※プリント基板が両面スルーホールのため、一旦取り付けた部品を交換するのは難易度が高いです。特にスピーカーは構造が華奢で壊れやすいです。外付けで大きなスピーカーに接続する方が安全です。
-
-[動作例 BF-026: HK-322-6 Music Player (Speaker External)] 
-
-Https://youtu.be/JqZQZIhNCvg
-
-<div style="page-break-before:always"></div>
-
-# 5.参考資料
+## 4. 参考資料
 
 メロディ IC の機能、動作の詳細、曲目の違いなどは、リンク先を参照ください。
 
@@ -96,18 +92,15 @@ Https://youtu.be/JqZQZIhNCvg
 
 [HK326-2] https://akizukidenshi.com/catalog/g/gI-15486/
 
-
-# 6.提供元
-
-BotanicFields, Inc.
+## 5. 提供元
 
 [twitter] https://twitter.com/botanicfields
 
 [facebook] https://www.facebook.com/botanicfields
 
-[Qiita] https://qiita.com/BotanicFields
-
 [GitHub] https://github.com/botanicfields
+
+[Qiita] https://qiita.com/BotanicFields
 
 [SwitchScience] https://www.switch-science.com/catalog/list/1084/
 
