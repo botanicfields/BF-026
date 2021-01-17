@@ -11,8 +11,13 @@
 ## **※音量が、かなり小さいです。**
 
 [組み立て例]
-<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_assemble_front.JPG" width=300>
-<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_assemble_back.JPG" width=300>
+
+<img src="./photo/bf-026photo_assemble_front.JPG" width=300>
+<img src="./photo/bf-026photo_assemble_back.JPG" width=300>
+
+[キット内容]
+
+<img src="./photo/bf-026photo_contents.JPG" width=300>
 
 # 1.機能
 
@@ -40,8 +45,9 @@ LED にも極性があり、リード線の短い方がマイナスです。プ�
 SPEAKER 表示のピンヘッダー (4p) に、ショートピン 2 本をプリント基板の長い方向に並べて挿します。外部スピーカー等を使用する場合は、ショートピンを取り外して IC に近い方のピン 2 本から信号を取り出します。
 
 [プリント基板]
-<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_PCB_front.JPG" width=300>
-<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_PCB_back.JPG" width=300>
+
+<img src="./photo/bf-026photo_PCB_front.JPG" width=300>
+<img src="./photo/bf-026photo_PCB_back.JPG" width=300>
 
 <div style="page-break-before:always"></div>
 
@@ -62,12 +68,13 @@ SPEAKER 表示のピンヘッダー (4p) に、ショートピン 2 本をプリ
 
 添付の圧電スピーカーを以下の部品に交換すると、音量や音質を改善できます。しかし基板上の VR による音量調節は、ほとんどできなくなります。
 
-[基板取付用スピーカーユニット　ＵＧＳＭ３０Ｂ－８－０１]
-https://akizukidenshi.com/catalog/g/gP-09271/
+[基板取付用スピーカーユニット　ＵＧＳＭ３０Ｂ－８－０１]https://akizukidenshi.com/catalog/g/gP-09271/
 
-※プリント基板が両面スルーホールのため、一旦取り付けた部品を交換するのは難易度が高いです。特にスピーカーは構造が華奢で壊れやすいです。外付けスピーカーに接続する方が安全です。
+※プリント基板が両面スルーホールのため、一旦取り付けた部品を交換するのは難易度が高いです。特にスピーカーは構造が華奢で壊れやすいです。外付けで大きなスピーカーに接続する方が安全です。
 
-[動作例 BF-026: HK-322-6 Music Player (Speaker External)] Https://youtu.be/JqZQZIhNCvg
+[動作例 BF-026: HK-322-6 Music Player (Speaker External)] 
+
+Https://youtu.be/JqZQZIhNCvg
 
 <div style="page-break-before:always"></div>
 
