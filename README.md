@@ -6,7 +6,13 @@
 
 単三乾電池 2 本を使用します。電池は付属しません。
 
-## **※音量は、かなり小さいです。**
+モーターを接続できます。モーターは付属しません。
+
+## **※音量が、かなり小さいです。**
+
+[組み立て例]
+<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_assemble_front.JPG" width=500>
+<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_assemble_back.JPG" width=500>
 
 # 1.機能
 
@@ -16,6 +22,8 @@
 - モーターの接続端子があり、演奏中に回せます。
 - ボタン操作の動作モードを選べます。
 - スピーカー出力をピンヘッダから外部に取り出せます。
+
+[動作例 BF-026: HK322-6 Music Player (Speaker on Board)] https://youtu.be/cPjyi8aC4bo
 
 # 2.組み立て
 
@@ -30,6 +38,10 @@ LED にも極性があり、リード線の短い方がマイナスです。プ�
 電池ホルダーのピンは、一旦まっすぐにしてから取り付けてください。皿ネジとナットで位置決めしてから、ピンをはんだ付けします。
 
 SPEAKER 表示のピンヘッダー (4p) に、ショートピン 2 本をプリント基板の長い方向に並べて挿します。外部スピーカー等を使用する場合は、ショートピンを取り外して IC に近い方のピン 2 本から信号を取り出します。
+
+[プリント基板]
+<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_PCB_front.JPG" width=500>
+<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_PCB_back.JPG" width=500>
 
 <div style="page-break-before:always"></div>
 
@@ -54,6 +66,8 @@ SPEAKER 表示のピンヘッダー (4p) に、ショートピン 2 本をプリ
 https://akizukidenshi.com/catalog/g/gP-09271/
 
 ※プリント基板が両面スルーホールのため、一旦取り付けた部品を交換するのは難易度が高いです。特にスピーカーは構造が華奢で壊れやすいです。外付けスピーカーに接続する方が安全です。
+
+[動作例 BF-026: HK-322-6 Music Player (Speaker External)] Https://youtu.be/JqZQZIhNCvg
 
 <div style="page-break-before:always"></div>
 
