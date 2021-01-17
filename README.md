@@ -11,8 +11,8 @@
 ## **※音量が、かなり小さいです。**
 
 [組み立て例]
-<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_assemble_front.JPG" width=500>
-<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_assemble_back.JPG" width=500>
+<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_assemble_front.JPG" width=300>
+<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_assemble_back.JPG" width=300>
 
 # 1.機能
 
@@ -40,8 +40,8 @@ LED にも極性があり、リード線の短い方がマイナスです。プ�
 SPEAKER 表示のピンヘッダー (4p) に、ショートピン 2 本をプリント基板の長い方向に並べて挿します。外部スピーカー等を使用する場合は、ショートピンを取り外して IC に近い方のピン 2 本から信号を取り出します。
 
 [プリント基板]
-<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_PCB_front.JPG" width=500>
-<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_PCB_back.JPG" width=500>
+<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_PCB_front.JPG" width=300>
+<img src="https://github.com/botanicfields/PCB-HK322-music-player/blob/main/photo/bf-026photo_PCB_back.JPG" width=300>
 
 <div style="page-break-before:always"></div>
 
